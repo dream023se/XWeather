@@ -1,0 +1,23 @@
+.weather-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .weather-card {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+  }
+  
+  .weather-card p {
+    margin: 0;
+  }
+
+  button{
+    background-color: green;
+  }
+  
